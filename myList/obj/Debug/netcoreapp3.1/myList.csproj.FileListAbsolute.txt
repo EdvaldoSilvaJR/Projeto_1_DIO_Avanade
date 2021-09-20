@@ -1,0 +1,13 @@
+C:\Users\Edvaldo Pereira\Documents\AVANADE\PROJETO1\myList\bin\Debug\netcoreapp3.1\myList.exe
+C:\Users\Edvaldo Pereira\Documents\AVANADE\PROJETO1\myList\bin\Debug\netcoreapp3.1\myList.deps.json
+C:\Users\Edvaldo Pereira\Documents\AVANADE\PROJETO1\myList\bin\Debug\netcoreapp3.1\myList.runtimeconfig.json
+C:\Users\Edvaldo Pereira\Documents\AVANADE\PROJETO1\myList\bin\Debug\netcoreapp3.1\myList.runtimeconfig.dev.json
+C:\Users\Edvaldo Pereira\Documents\AVANADE\PROJETO1\myList\bin\Debug\netcoreapp3.1\myList.dll
+C:\Users\Edvaldo Pereira\Documents\AVANADE\PROJETO1\myList\bin\Debug\netcoreapp3.1\myList.pdb
+C:\Users\Edvaldo Pereira\Documents\AVANADE\PROJETO1\myList\obj\Debug\netcoreapp3.1\myList.csprojAssemblyReference.cache
+C:\Users\Edvaldo Pereira\Documents\AVANADE\PROJETO1\myList\obj\Debug\netcoreapp3.1\myList.AssemblyInfoInputs.cache
+C:\Users\Edvaldo Pereira\Documents\AVANADE\PROJETO1\myList\obj\Debug\netcoreapp3.1\myList.AssemblyInfo.cs
+C:\Users\Edvaldo Pereira\Documents\AVANADE\PROJETO1\myList\obj\Debug\netcoreapp3.1\myList.csproj.CoreCompileInputs.cache
+C:\Users\Edvaldo Pereira\Documents\AVANADE\PROJETO1\myList\obj\Debug\netcoreapp3.1\myList.dll
+C:\Users\Edvaldo Pereira\Documents\AVANADE\PROJETO1\myList\obj\Debug\netcoreapp3.1\myList.pdb
+C:\Users\Edvaldo Pereira\Documents\AVANADE\PROJETO1\myList\obj\Debug\netcoreapp3.1\myList.genruntimeconfig.cache
